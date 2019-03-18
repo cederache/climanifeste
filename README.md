@@ -77,6 +77,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Nicolas Damiens](https://twitter.com/chticolas), développeur
 * [Jean-Baptiste Desbas](https://twitter.com/jbdesbas), géomaticien
 * [Indy De Deken](https://twitter.com/indydedeken), ingénieur commercial
+* [Cédric Derache](https://twitter.com/cederache), Lead Developer
 * [Florian De Sa](https://www.linkedin.com/in/floriandesa/), Product Manager
 * [Clément Desmidt](https://shikiryu.com), développeur PHP
 * [Laurent Devernay](https://ldevernay.github.io/), formateur
